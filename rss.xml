@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 26 May 2024 08:38:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Links]]></title>
+            <guid>c07255d064684d38bbe6becff06b5b2a</guid>
+            <pubDate>Sun, 26 May 2024 08:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CV]]></title>
+            <guid>71016a7a4dd541ffa4f2dd819562b4ba</guid>
+            <pubDate>Sun, 26 May 2024 08:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Education<br />
+2024 BICMR AI4MATH Program<br />
+2023 ~ Nankai University<br />
+2018~2022 Chengdu Shishi High School</p>
+<p>Skills<br />
+C++, python, latex, lean4, html&amp;css, bash (basic), haskell(learning)</p>
+<p>Award<br />
+2023-2024 公能奖学金</p>
+<p>Courses and Seminar<br />
+第一学期<br />
+数学分析3-1<br />
+高等代数与解析几何2-1</p>
+<p>第二学期<br />
+数学分析3-2<br />
+高等代数与解析几何2-2<br />
+计算机、集合论与逻辑</p>
+<p>第三学期<br />
+数学分析3-3<br />
+抽象代数I<br />
+常微分方程<br />
+复变函数I，II<br />
+几何群论讨论班</p>
+<p>第三学期寒假<br />
+BICMR AI4MATH Program</p>
+<p>第四学期<br />
+实变函数<br />
+点集拓扑<br />
+抽象代数II<br />
+Galois理论<br />
+概率论<br />
+交换代数<br />
+数论<br />
+李群和代数群</p>
+<p>Short Courses<br />
+Propagation speed of non-linear parabolic equations on Riemannian manifolds by Prof. Alexander Grigor's yan<br />
+notes</p>
+<p><a type="application/pdf" href="/_resources/1cf38ed904244ff0bf220b7425307805.pdf">RMPDE_shortcourse.pdf</a></p>
+<p>Research</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Teaching]]></title>
+            <guid>45a1c18038bc477bb623ecdace8ab5f4</guid>
+            <pubDate>Sun, 26 May 2024 08:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Project]]></title>
+            <guid>922added14e04d3aabb5bfe3450e33d1</guid>
+            <pubDate>Sun, 26 May 2024 08:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[Formalizing math in lean4 (homework of BICMR-AI4MATH): <a title="https://github.com/bicmr-ai4math/group3-algebraic_integers_of_Q_adjoin_sqrt_-3_is_PID" href="https://github.com/bicmr-ai4math/group3-algebraic_integers_of_Q_adjoin_sqrt_-3_is_PID">https://github.com/bicmr-ai4math/group3-algebraic_integers_of_Q_adjoin_sqrt_-3_is_PID</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Publication]]></title>
+            <guid>aa54f9f8f5f1482c9ee241fa3924cf89</guid>
+            <pubDate>Sun, 26 May 2024 08:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ideals on Math Research Workflow]]></title>
+            <guid>73d5dd728aca4cb5b94266cb14cd318b</guid>
+            <pubDate>Sun, 26 May 2024 05:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[<ul>
+<li>Using mobile camera to take down lecture notes and use digikam to manage photos</li>
+<li>Zotero for reference manager</li>
+<li>Joplin for memo and blogging</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mental Health Key Messages]]></title>
+            <guid>52726b74d2db4340a506a20d9f63fb09</guid>
+            <pubDate>Sun, 26 May 2024 05:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p>As China's interpersonal competition becomes more and more severe. Many students and researchers commit suicide. Here I present some useful resources for my own purposes:</p>
+<p>Key Messages:<br />
+Well done! You're taking proactive steps to prioritize your mental well-being.<br />
+Reaching out for support shows real courage and resilience.<br />
+Remember, your mental health is important, and you don't have to go through this alone.<br />
+Feel free to utilize the various supports available, including professional services.<br />
+You've got this! Keep making your mental health a top priority.</p>
+<p>How to deal with annoying people:<br />
+"Avoid them like the plague and when I have to do with them, remind myself not to react and just be diplomatic and nice to them, to try to make the time I have with them as limited as possible, without being rude." - quora user</p>
+<p>How to deal with financial loss:<br />
+"I am so sorry for your loss.<br />
+I will tell you what my mom would say every time something similar happened. She would say that YOU are ok, YOU are not harmed, the DRIVER is ok and the loss is only MATERIAL. When you lose something 'material' you can earn it back. It might take time but you can get it again. But if you are injured, you can't get back your health.<br />
+I know that you're upset about the loss of your dream that you worked hard for, I am sorry for that, but please don't fall into a depression because of it. Money comes and goes and is not in your hands but your mental health is in your hand and is more important." - quora user</p>
+<p>Playing video games:<br />
+Playing violent games and horrible games can reduce the pressure. Watching these kind of movies work as well.</p>
+<p>Listening to New centery music:<br />
+eg.<br />
+Afterword by Brad Jacobsen<br />
+The Level Plain by Joanie Madden<br />
+Down By The Salley Gardens by Joanie Madden<br />
+November Woods by Acoustic Eidolon</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Random Thoughts on Debian Pure Blend]]></title>
+            <guid>17c9edfca601459dbecce705de7591d8</guid>
+            <pubDate>Sun, 26 May 2024 04:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Debian Pure Blend provides an amazing amount of FOSS professional tools in almost every discipline.</p>
+<p>You can do scientific research, process GIS data, play with medical image processing tools and listen to hamradio.</p>
+<p>This research used to depend on large laboratory and an enormous mount of money. But now is available to all human beings, free and opensource.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <guid>0c780a3876f4473da6edd22a3b3a6002</guid>
+            <pubDate>Sun, 26 May 2024 03:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[Hello World]]></content:encoded>
+        </item>
+    </channel>
+</rss>
